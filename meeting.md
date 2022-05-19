@@ -19,7 +19,7 @@ the [Wisenbaker Engineering Building](https://goo.gl/maps/MRUT3tCXjAcEX9wB6).
 
 ## Registration
 
-Please, register for the workshop in advance.
+Please, [register](https://forms.gle/sE3j1ZAnrXJyQX1K9) for the workshop in advance.
 
 
 ## Tentative Schedule
