@@ -32,7 +32,7 @@ Please, [register](https://forms.gle/sE3j1ZAnrXJyQX1K9) for the workshop in adva
   * Lijun Qian
   * Joseph Boutros (virtual)
   * Debdeep Pati (virtual)
-  * Xiaoning Qian
+  * Xiaoning Qian (virtual)
 
 #### 10:15 AM – Systems, Applications, and Learning
   * Alex Sprintson (virtual)
