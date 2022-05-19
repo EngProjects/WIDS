@@ -1,9 +1,7 @@
-# url: "https://people.engr.tamu.edu"
-# baseurl: "/chmbrlnd"
 title: ""
 author:
-  name: Wireless Thematic Lab
-  email: chmbrlnd@tamu.edu
+  name: Potential Thematic Lab
+#  email:
 show_excerpts: false # set to true to show excerpts on the homepage
 description: Intelligent NextG Cellular Networks and Applications Laboratory
 
