@@ -4,9 +4,6 @@ title: Workshop
 permalink: /workshop.html
 ---
 
-
-# Workshop
-
 The Intelligent NextG Cellular Networks and Applications Lab will host a workshop on __May 27, 2022__, with several prominent speakers.
 This workshop is open to the TAMU community and it will focus on fundamental and applied research into machine learning for NextG cellular networks and applications, supported over mobile, edge and cloud computing resources.
 Future wireless infrastructures can be viewed as application scenarios for data science, through their design and operation, as well as an enabling technology for pervasive mobile computing.
@@ -53,5 +50,4 @@ Please, register for the workshop in advance.
 
 #### 1:30 PM – Informal Discussion on Data Science, Wireless Systems, and Educational Opportunities
   * Krishna Narayanan
-  * Jean-Francois Chamberland
 
