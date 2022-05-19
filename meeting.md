@@ -22,7 +22,7 @@ the [Wisenbaker Engineering Building](https://goo.gl/maps/MRUT3tCXjAcEX9wB6).
 Please, register for the workshop in advance.
 
 
-## Tentative schedule
+## Tentative Schedule
 
 #### 8:30 AM – Coffee and Welcome to Thematic Workshop on Data and Wireless
   * Jean-Francois Chamberland
