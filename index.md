@@ -4,6 +4,8 @@ title: About
 permalink: /index.html
 ---
 
+![Clouds](assets/clouds.jpg)
+
 # Intelligent NextG Cellular Networks and Applications Laboratory
 
 Welcome to the Intelligent NextG Cellular Networks and Applications Lab.
