@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WIDS
+title: About
 permalink: /index.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop
+title: Event
 permalink: /workshop.html
 ---
 
