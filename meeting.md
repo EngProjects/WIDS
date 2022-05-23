@@ -46,7 +46,7 @@ Please, [register](https://forms.gle/sE3j1ZAnrXJyQX1K9) for the workshop in adva
   * Sebastian Hoyos (virtual)
   * Sabit Ekin (virtual)
 
-#### 12:30 PM – Lunch
+#### 12:30 PM – Lunch (provided for registered in-person participants)
 
 #### 1:30 PM – Informal Discussion on Data Science, Wireless Systems, and Educational Opportunities
   * Krishna Narayanan
