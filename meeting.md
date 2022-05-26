@@ -22,11 +22,12 @@ the [Wisenbaker Engineering Building](https://goo.gl/maps/MRUT3tCXjAcEX9wB6).
 Please, [register](https://forms.gle/sE3j1ZAnrXJyQX1K9) for the workshop in advance.
 
 
-## Tentative Schedule
+## Schedule
 
 #### 8:30 AM – Coffee and Welcome to Thematic Workshop on Data and Wireless
   * Jean-Francois Chamberland
   * Srinivas Shakkottai
+  * Nick Duffield
 
 #### 9:00 AM – Wireless, Statistical Methods, and Data
   * Lijun Qian
@@ -36,7 +37,7 @@ Please, [register](https://forms.gle/sE3j1ZAnrXJyQX1K9) for the workshop in adva
 
 #### 10:15 AM – Systems, Applications, and Learning
   * Alex Sprintson (virtual)
-  * P.R. Kumar and Srinivas Shakkottai
+  * P.R. Kumar and Srinivas Shakkottai (virtual)
   * Dileep Kalathil
   * Srikanth Saripalli
 
