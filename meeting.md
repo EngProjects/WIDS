@@ -15,6 +15,7 @@ The tentative schedule appears below.
 
 The workshop will be held in __232 WEB__,
 the [Wisenbaker Engineering Building](https://goo.gl/maps/MRUT3tCXjAcEX9wB6).
+This event is also hosted online through [Zoom](https://tamu.zoom.us/j/93007732216), with passcode disseminated through email.
 
 
 ## Registration
