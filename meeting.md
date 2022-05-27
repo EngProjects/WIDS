@@ -38,7 +38,7 @@ Please, [register](https://forms.gle/sE3j1ZAnrXJyQX1K9) for the workshop in adva
 
 #### 10:15 AM – Systems, Applications, and Learning
   * Alex Sprintson (virtual)
-  * P.R. Kumar and Srinivas Shakkottai (virtual)
+  * P.R. Kumar (virtual)
   * Dileep Kalathil
   * Srikanth Saripalli
 
